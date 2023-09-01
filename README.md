@@ -1,4 +1,4 @@
-# Language Detector Android Demo
+# Interactive Segmentation Android Demo
 
 ### Overview
 
@@ -12,7 +12,7 @@ app. You don't need to do any steps to download TFLite models into the project
 explicitly.
 
 
-![Language Detector Demo](language_detector.png?raw=true "Language Detector Demo")
+![Language Detector Demo](interactive_segmentation.png?raw=true "Interactive Segmentation Demo")
 
 ## Build the demo using Android Studio
 
